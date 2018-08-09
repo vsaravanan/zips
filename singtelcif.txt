@@ -4,3 +4,7 @@ http://www.starhub.com/business/epp/store.html?store=Standard-Chartered-Bank&tok
 
 http://www.starhub.com/business/epp/store.html?store=Standard-Chartered-Bank&token=deb15952cac1fd5c47d71b1bab864e27e656d22d&company=A8E514FBC36F0E8BF390C1FF10DA0BD204BE2A45A7669E63&callbackUrl=null&industry=
 
+
+https://www.singtel.com/personal/products-services/mobile/cis-plans?sessionToken=dcb9579c-6e46-4374-9023-fa7646c1c0a6
+
+http://www.starhub.com/business/epp/store.html?store=Standard-Chartered-Bank&token=a0f3fa8e40fcacebe669d91c09205f97a4d2f3ac&company=A8E514FBC36F0E8BF390C1FF10DA0BD204BE2A45A7669E63&callbackUrl=null&industry=

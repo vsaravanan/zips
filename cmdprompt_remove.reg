@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenNew]
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenNew\Command]
+[-HKEY_CLASSES_ROOT\Folder\shell\OpenNew]
+[-HKEY_CLASSES_ROOT\Folder\shell\OpenNew\Command]
+[-HKEY_CLASSES_ROOT\Drive\shell\OpenNew]
+[-HKEY_CLASSES_ROOT\Drive\shell\OpenNew\Command]

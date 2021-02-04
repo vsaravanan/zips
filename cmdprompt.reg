@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\Directory\shell\OpenNew]
+@="DOS"
+[HKEY_CLASSES_ROOT\Directory\shell\OpenNew\Command]
+@="cmd.exe /k cd %1"
+[HKEY_CLASSES_ROOT\Drive\shell\OpenNew]
+@="DOS"
+[HKEY_CLASSES_ROOT\Drive\shell\OpenNew\Command]
+@="cmd.exe /k cd %1"
+
+#instead use this cmd.exe /s /k pushd "%V"
